@@ -1,4 +1,4 @@
-# list of users
-Naomi
-Florence
+# List of users
+Naomi 
 Jesus
+Florence
